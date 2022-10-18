@@ -1,0 +1,544 @@
+body{
+ overflow-x: hidden;
+margin: 0;
+height: 1521px;
+margin-top: 0;
+
+}
+
+
+
+  
+
+form{
+    bottom: 70px;
+    position: relative;
+    height: 403px;
+   
+}
+.flex i{
+    position: absolute;
+    left: 35px;
+} 
+
+
+
+
+.hello img{
+    position: absolute;
+    z-index:-10 ;
+    width: 100%;
+
+
+}
+.hello1 h2{
+    
+        width: 377px;
+   
+}
+.hello1{
+   
+    position: relative;
+    top: 519px;
+   left: 165px;
+    font-size: 22px;
+    color: white;
+   
+    width: 550px;
+}
+.hello1 input[type=email]{
+    top: 0px;
+    right: 10px;
+   
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    
+}
+button{
+   
+   border: none;
+    height: 52px;
+    width: 120px;
+    font-size: 20px;
+    background-color:rgb(241, 197, 13);
+    color: white;
+    font-weight: 700;
+}
+.hello2{
+
+ position: relative;
+    background-color: #F1C50D;
+    border: 1px solid;
+    width: 100%;
+    height: 600px;
+    box-sizing: border-box;
+    top: 650px;
+    font-size: 18px;
+    border: none;
+    
+    
+}
+.hello2 h1{
+    left: 156px;
+    position: relative;
+    top: 131px;
+    width: 500px;
+    color: black;
+   
+}
+.itsme{
+    position: relative;
+    left: 122px;
+    font-size: 20px;
+    width: 600px;
+    font-weight: bold;
+    top: 60px;
+    line-height: 1.8;
+}
+
+
+.yoyosing img{
+    left: 29px;
+   
+    width: 33%;
+    left: 14px;
+    position: relative;
+    top: 90px;
+    left: 770px;
+}
+.flex{
+    display: flex;
+    position: relative;
+    bottom: -14px;
+    height: 450px;
+}
+   
+    
+
+.flex1{
+    width: 325px;
+    background-color: #EE1B24;
+    position: relative;
+    top: 72px;
+    height: 450px;
+    color: white;
+    font-size: 80px;
+}
+.flex1 h2,p{
+    padding: 7px;
+    margin: 27px;
+    font-size: 18px;
+
+}
+.flex2 h2,p{
+    padding: 7px;
+    margin: 27px;
+    font-size: 18px;
+
+}
+.flex3 h2,p{
+    padding: 7px;
+    margin: 27px;
+    font-size: 18px;
+
+}
+.flex4 h2,p{
+    padding: 7px;
+    margin: 27px;
+    font-size: 18px;
+}
+.flex1  h1{
+    left: 34px;
+    position: relative;
+    top: 0px;
+   
+    font-size: 3.75rem;
+
+}
+.flex2  h1{
+    left: 34px;
+    position: relative;
+    top: 0px;
+    color: black;
+   
+    font-size: 3.75rem;
+
+}
+.flex3  h1{
+    left: 34px;
+    position: relative;
+    top: 0px;
+   
+    font-size: 3.75rem;
+
+}
+.flex4  h1{
+    left: 34px;
+    position: relative;
+    top: 0px;
+   
+    font-size: 3.75rem;
+
+}
+.flex2{
+    width: 325px;
+    background-color: #F1C50D;
+    position: relative;
+    top: 72px;
+    height: 450px;
+    font-size: 80px;
+}
+.flex3{
+    width: 325px;
+    background-color: #292D32;
+    position: relative;
+    top: 72px;
+    height: 450px;
+    color: white;
+    font-size: 80px;
+
+}
+.flex4{
+    width: 325px;
+    background-color: #545C66;
+    position: relative;
+    top: 72px;
+    height: 450px;
+    color: white;
+    font-size: 80px;
+
+
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family: Roboto,sans-serif;
+}
+.thirdrow{
+  
+    position: relative;
+    background-color: #F1C50D;
+    border: 1px solid;
+    width: 100%;
+    height: 1800px;
+    box-sizing: border-box;
+    bottom: -86px;
+    font-size: 35px;
+    border: none;
+   
+}
+.thirdrow1{
+    background-color: #292D32;
+    width: 70%;
+    position: relative;
+    height: 800px;
+    left: 432px;
+}
+.flexbox {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    height: 1521px;
+    width: 100%;
+   
+    
+}
+.flexbox img{
+    left: 128px;
+    width: 360px;
+    height: 400px;
+    position: relative;
+    bottom: 1630px;
+    margin: 15px;
+}
+
+.flexbox div{
+  
+        display: flex;
+        
+       
+}
+.flexbox{
+    flex-wrap: wrap;
+  
+ 
+
+}
+.flexbox3 {
+    right: 270px;
+    position: relative;
+}
+.flexbox3 h2{
+    width: 845px;
+    bottom: 1587px;
+    position: relative;
+    left: 434px;
+    font-size: 2.25rem;
+    font-weight: 900;
+    margin: 0px;
+}
+.flexbox3 p{
+    width: 335px;
+    bottom: 1550px;
+    position: relative;
+    right: 444px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.8;
+}
+
+.flexbox3 img{
+    position: relative;
+    left: -460px;
+}
+.new{
+    
+    background-color: #292D32;
+    position: relative;
+    bottom: 1550px;
+    width: 100%;
+    height: 870px;
+}
+.new1{
+    background-color: #EE1B24;
+    width: 690px;
+    height: 305px;
+    position: relative;
+    left: 400px;
+    top: 250px;
+
+
+}
+.new1 img{
+    position: relative;
+    bottom: 130px;
+    width: 449px;
+    height: 543px;
+    left: 60px;
+}
+.new2 h1{
+    left: -4px;
+    position: relative;
+    top: 429px;
+    color: #FFFFFF;
+    width: 100%;
+    top: 692px;
+}
+    
+.new2 p{
+    right: 498px;
+    top: 734px;
+    position: relative;
+    color: #FFFFFF;
+    width: 100%;
+    font-weight: 700;
+    line-height: 2;
+}
+.lastpage{
+    background-color: #EE1B24;
+    width: 100%;
+    height: 220px;
+    position: relative;
+    bottom: 1550px;
+}
+.lastpage h1{
+    margin: 50px;
+    color: #FFFFFF;
+    position: relative;
+    left: 40%;
+    top: 0;
+}
+.fonts{
+        
+    font-size: 30px;
+    left: 600px;
+    position: relative;
+    bottom: 1660px;
+    color: white;
+}
+.fonts div{
+    padding: 10px;
+}
+.lastone{
+    position: relative;
+    background-color:#292D32;
+    height: 592px;
+    width: 100%;
+    bottom: 1600px;
+
+    
+}
+.lastone1{
+    background-color: #F1C50D;
+    height: 592px;
+    width: 289px;
+    position: relative;
+    left: 565px;
+}
+.table1{
+    left: 700px;
+    position: relative;
+    bottom: 1900px;
+
+}
+
+.tabel1,input[type=text],[type=email]{
+    bottom: 100px;
+    position: relative;
+    margin: 10px;
+    width: 500px;
+    height: 40px;
+ right: 250px;
+    text-align: start;
+    font-size: 15px;
+   
+    padding-left: 10px;
+}
+.tabel1,textarea{
+    bottom: 100px;
+    position: relative;
+    margin: 10px;
+    width: 500px;
+    height: 90px;
+ right: 250px;
+    text-align: start;
+    font-size: 15px;
+    font-family: sans-serif;
+   
+    padding-left: 10px;
+    padding-top: 10px;
+   
+}
+.tabel1,h1{
+    position: relative;
+    bottom: 2100px;
+    left: 678px;
+    color: #FFFFFF;
+    font-size: 35px;
+}
+
+
+.hell{
+    
+   
+    position: relative;
+    height: 48pxpx;
+    width: 120px;
+    font-size: 20px;
+    background-color: rgb(241, 197, 13);
+    color: white;
+    font-weight: 700;
+    bottom: 1700px;
+    border-color: #FFFFFF;
+   
+    font-size: 13px;
+    letter-spacing: 5px;
+    text-align: center;
+   
+    right: 70px;
+    border: 1px solid#FFFFFF;
+   
+}
+.loc h1{
+    color: white;
+    left: -475px;
+    position: absolute;
+    top: 100px;
+   
+}
+.loc p{
+    color: white;
+    position: absolute;
+    width: 100%;
+    right: 440px;
+    top: 200px;
+    font-size: 18px;
+}
+
+.hell2 h1{
+    color: white;
+    left: 150px;
+    position: absolute;
+    top: 310px;
+    left: -475px
+}
+
+.hell3{
+        
+    font-size: 30px;
+    left: -488px;
+    position: absolute;
+    top: 400px;
+    color: #FFFFFF;
+}
+   
+
+.hell3 div{
+    padding: 10px;
+}
+.hell2 p{
+    top: 450px;
+    color: white;
+    position: absolute;
+    width: 85%;
+    font-size: 25px;
+    left: -515px;
+
+}
+footer{
+    bottom: 1876px;
+   position: relative;
+    background-color: #333333;
+    width: 100%;
+    height: 100px;
+   
+}
+footer{
+    color: #FFFFFF;
+    text-align: center;
+}
+footer a{
+    text-decoration: underline;
+    color: #adcce9;
+}
+.end{
+    padding-top: 25px;
+    justify-content: center;
+position: relative;
+left: 105px;
+    
+   
+}
+.end p{
+    position: relative;
+    right: 185px;
+    font-size: 10px;
+    color: #adcce9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+   
+
+
+ 
+   
+
+
+
+
